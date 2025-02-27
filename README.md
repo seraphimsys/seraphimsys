@@ -6,5 +6,5 @@
 <p align="center"><img src ="https://64.media.tumblr.com/ffefbf5229f636075ae8b42db30f874f/9a2f12012a2e5a64-3e/s2048x3072/4f1cb275647bc319370243e57019e0ea1e6e05cb.pnj"/>
 <p></p>
 <h4 align="center"> interests
-<h6 align="center"> doctor who, bojack horseman, supernatural, ultrakill, call of duty ghosts, house m.d, slay the spire, marvel, dc, overwatch
-<h6 align="center"> alice: madness returns, cosplay, minecraft, league of legends, deadlock, valorant, sweet home, 3D modelling, lost ember
+<h6 align="center"> doctor who, bojack horseman, supernatural, ultrakill, call of duty ghosts, house m.d, slay the spire, marvel, dc, overwatch, writing
+<h6 align="center"> alice: madness returns, cosplay, minecraft, league of legends, deadlock, valorant, sweet home, 3D modelling, lost ember, silent hill
